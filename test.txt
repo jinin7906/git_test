@@ -1,2 +1,3 @@
 init
 master에서 수정
+user 사용자
